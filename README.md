@@ -1,4 +1,10 @@
-# purchasing app
+# Fabrikam Purchasing app
+
+### About the app
+A sample app for showcasing [VS Team Services Release Management](https://www.visualstudio.com/features/release-management-vs) deployment scenarios.
+
+
+# How to deploy this app with Chef using [VS Team Services Release Management](https://www.visualstudio.com/features/release-management-vs)
 
 ###Fabrikam Purchasing Website using Chef cookbook
 
