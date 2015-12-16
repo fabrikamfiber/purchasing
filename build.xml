@@ -12,6 +12,11 @@
 		<path refid="Web App Libraries.libraryclasspath"/>
 		<path refid="EAR Libraries.libraryclasspath"/>
 	</path>
+
+	<target name="clean">
+	    <delete dir="dist" />
+	    <delete dir="build" />
+	</target>
 	
 	<target name="init">
 	</target>
@@ -29,10 +34,10 @@
 	    </war>
 	</target>
 	
-	<target name="clean">
-	    <delete dir="dist" />
-	    <delete dir="build" />
+	<target name="copy" depends="war">
+		<copydir src="*"
+           	dest="staging/drop"
+           	includes="**/*.war" />
 	</target>
 	
-	<target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
 </project>
