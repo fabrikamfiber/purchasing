@@ -22,6 +22,8 @@
         <version>2.6</version>
         <configuration>
           <webXml>WebContent/WEB-INF/web.xml</webXml>
+          <finalName>purchasing</finalName>
+          <outputDirectory>/target</outputDirectory>
         </configuration>
       </plugin>
       <plugin>
