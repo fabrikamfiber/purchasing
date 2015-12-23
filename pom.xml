@@ -23,7 +23,6 @@
         <configuration>
           <webXml>WebContent/WEB-INF/web.xml</webXml>
           <warName>purchasing</warName>
-          <outputDirectory>/target</outputDirectory>
         </configuration>
       </plugin>
       <plugin>
