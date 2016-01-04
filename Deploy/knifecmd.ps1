@@ -1,1 +1,1 @@
-Invoke-Knife @("knife status")
+Invoke-Knife @("knife runs list -E chef_demo -F json")
