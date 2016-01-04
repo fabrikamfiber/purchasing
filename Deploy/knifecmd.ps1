@@ -1,1 +1,1 @@
-knife status
+Invoke-Knife @("knife status")
