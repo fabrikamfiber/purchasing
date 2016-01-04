@@ -1,1 +1,1 @@
-knife runs list
+knife status
