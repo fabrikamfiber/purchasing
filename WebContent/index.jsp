@@ -19,6 +19,7 @@
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="cart.jsp">Shopping cart</a></li>
+			<li><a href="contact.jsp">Contact us</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
