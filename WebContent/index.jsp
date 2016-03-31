@@ -13,13 +13,14 @@
 	<div id="page">
 		<header>
 		<p class="site-title">
-			<a href="">//Fabrikam Purchasing//</a>
+			<a href="">Fabrikam Purchasing</a>
 		</p>
 		<nav>
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="cart.jsp">Shopping cart</a></li>
 			<li><a href="contact.jsp">Contact us</a></li>
+			<li><a href="contact.jsp">Orders</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
