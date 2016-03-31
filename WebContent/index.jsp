@@ -26,7 +26,7 @@
 		</ul>
 		</nav> </header>
 		<div id="body">
-			<img alt="Welcome to Fabrikam Purchasing!" src="Images/banner_fabrikam2.png"
+			<img alt="Welcome to Fabrikam Purchasing!" src="Images/banner_build.png"
 				height="200" />
 			<div id="featuredProduct">
 				<img alt="Featured Product" src="Images/1.png" height="300" />
