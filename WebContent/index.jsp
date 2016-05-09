@@ -13,7 +13,7 @@
 	<div id="page">
 		<header>
 		<p class="site-title">
-			<a href="">Fabrikam Purchasing</a>
+			<a href="">Fabrikam Purchasing!</a>
 		</p>
 		<nav>
 		<ul>
